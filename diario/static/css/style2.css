@@ -1,0 +1,40 @@
+
+
+section{
+     min-height: 90vh;
+
+}
+
+body{ 
+    background-color: #00d1b2;
+    color: #fff;
+    height: 100%;
+
+}
+
+.basenavbar {
+    align-items: stretch;
+    
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.navbar{
+    align-items: stretch;
+ /*   display: flex; */
+    position: relative;
+    z-index: 30;
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.outraspags{
+   align-items: stretch;
+ 
+    flex-direction: column;
+    justify-content: space-between;
+}
